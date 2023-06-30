@@ -48,6 +48,7 @@
 	width: 100%;
 	height: 5%;
 	position: fixed;
+	z-index: 1;
 }
 
 h1 {
@@ -100,13 +101,31 @@ img {
 	margin-top:  65px;
 	width: 550px;
 	height: auto;
-	margin-bottom: 50px;
+	margin-bottom: 60px;
 	margin-left: 75px;
 }
 
 .parent{
 	display:flex;
 	gap: 5px;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 25%;
+  height: 0;
+  padding-top: 20px;
+  overflow: hidden;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 5em;
+  bottom: 2em;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index:0;
 }
 
 footer {
@@ -117,6 +136,7 @@ footer {
 	width: 100%;
 	height: 5%;
 	position: fixed;
+	z-index: 1;
 }
 
 #email {
