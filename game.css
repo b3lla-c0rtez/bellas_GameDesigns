@@ -6,40 +6,39 @@
 
 #about {
 	position: absolute;
-	right: 81%;
+	right: 80%;
 	top: 8px;
 }
 
 #games {
 	position: absolute;
-	right: 63%;
+	right: 60%;
 	top: 8px;
 }
 
 #websites {
 	position: absolute;
-	right: 48%;
+	right: 46%;
 	top: 8px;
 }
 
 #projects {
 	position: absolute;
-	right: 33%;
+	right: 30%;
 	top: 8px;
 }
 
 #linked {
 	position: absolute;
-	right: 20%;
+	right: 17%;
 	top: 8px;
 }
 
 #contact {
 	position: absolute;
-	right: 3%;
+	right: 0%;
 	top: 8px;
 }
-
 .header {
 	background: #f6cdff;
 	padding: 10px 0;
