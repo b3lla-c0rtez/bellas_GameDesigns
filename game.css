@@ -168,7 +168,6 @@ footer {
 		height: auto;
 		width: auto;
 		font-family: "Open Sans", sans-serif;
-		font-size: 3px;
 	}
 
 	img {
@@ -219,7 +218,7 @@ footer {
 @media (max-width: 481px) {
 	button {
 		background-color: #f6cdff; 
-		border-width: 0;
+		border-width: 0; 
 		color: black; 
 		height: auto;
 		width: auto;
@@ -234,7 +233,6 @@ footer {
 		width: auto;
 		font-family: "Open Sans", sans-serif;
 	}
-	
 
 	img {
 		float: right;
@@ -275,6 +273,194 @@ footer {
 		width: auto;
 		height: auto;
 		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
 	}
 	
 }
+
+@media (max-width: 900px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
+	}
+	
+}
+
+@media (max-width: 992px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+		max-width: 100%;
+		max-height: 100%;
+	}
+	
+}
+
+@media (max-width: 1000px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+	}
+	
+}
+
+
+@media (max-width: 900px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+	}
+	
+}
+
+@media (max-width: 992px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+	}
+	
+}
+
+@media (max-width: 1200px) {
+	button {
+		background-color: #f6cdff; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	button:hover {
+		background-color: #a6a6a6; 
+		border-width: 0; 
+		color: black; 
+		height: auto;
+		width: auto;
+		font-family: "Open Sans", sans-serif;
+	}
+
+	img {
+		float: right;
+		margin-top:  65px;
+		margin-bottom: 55px;
+		width: auto;
+		height: auto;
+		margin-right: 15px;
+	}
+	
+}
+
